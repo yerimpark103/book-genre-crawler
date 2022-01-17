@@ -18,8 +18,7 @@ _교보문고 웹사이트 데이터를 이용하기 때문에, 장르가 검색
 3. 책 제목과 작가를 입력하면 장르 태그를 보여줍니다.
 
 ### 책 리스트 csv로 일괄 검색하기
-[books.csv](https://github.com/yerimpark103/bookGenreCrawler/files/7882112/books.csv)
-1. 위의 템플렛의 Title / Author 부분에 책 제목과 작가를 넣어주세요! 
+1. 제공된 `books.csv` 템플렛의 Title / Author 부분에 책 제목과 작가를 넣어주세요! 
 2. `books.csv`를 bookGenreCrawler 폴더에 넣습니다
 3. bookGenreCrawler.py 를 실행하고,
 4. `m`을 입력합니다.
